@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\ship.xnb
+c:\users\david\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\_2DshooterTutorial.exe
+c:\users\david\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\_2DshooterTutorial.pdb
+c:\users\david\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\david\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.exe
+c:\users\david\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.pdb
+C:\Users\David\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\space.xnb
+C:\Users\David\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\David\documents\visual studio 2013\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\playerbullet.xnb
